@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img align="center" src="https://github.com/fenestbuc/fenestbuc/blob/main/wave.gif" alt="Wave" height="45" width="45" /></a>, I'm Vaibhav Sharma</h1>
-<h3 align="center">A CS undergrad<a href="https://ashoka.edu.in" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/859043461085003776.png" alt="Ashoka" height="20" width="20" /></a> exploring new technologies.</h3>
+<h3 align="center">A CS undergrad<a href="https://ashoka.edu.in" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/859043461085003776.png" alt="Ashoka" height="20" width="20" /></a> building next-gen B2B Credit Rails.</h3>
 
 
 
@@ -7,15 +7,13 @@
 
 - 🌱 I’m currently learning **Alternate Scoring Models and Debt Portfolio Risk Asessment**.
 
-- 👯 I’m looking to collaborate on **Python**.
-
 - <a href="https://getfedora.org/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Fedora_logo.svg/1200px-Fedora_logo.svg.png" alt="Fedora" height="17" width="17" /></a> I am a [contributor](https://fedoraproject.org/wiki/User:Vaibhavsharma) at Fedora Project.
 
-- 👨‍💻 My portfolio website : [vaibhav7.xyz](https://vaibhav7.xyz).
+- 👨‍💻 My portfolio website : [vaibhav7.xyz](http://fenestbuc.github.io/).
 
 - 📝 I regularly write articles on [https://forum.techhut.tv/u/vaibhav](https://forum.techhut.tv/u/vaibhav).
 
-- 📫 How to reach me **vaibhavsharma74@protonmail.com**.
+- 📫 How to reach me **fenestbuc@protonmail.com**.
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1BC_jfTjjEPsm6k08kHGs6-q4CY9hHsVt/view?usp=sharing).
 
