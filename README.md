@@ -1,11 +1,11 @@
 <h1 align="center">Hi <img align="center" src="https://github.com/fenestbuc/fenestbuc/blob/main/wave.gif" alt="Wave" height="45" width="45" /></a>, I'm Vaibhav Sharma</h1>
-<h3 align="center">A CS freshman<a href="https://ashoka.edu.in" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/859043461085003776.png" alt="Ashoka" height="20" width="20" /></a> exploring new technologies.</h3>
+<h3 align="center">A CS undergrad<a href="https://ashoka.edu.in" target="blank"><img align="center" src="https://cdn.discordapp.com/emojis/859043461085003776.png" alt="Ashoka" height="20" width="20" /></a> exploring new technologies.</h3>
 
 
 
-- 🔭 I’m currently working on **Solidity Smart Contracts**.
+- 🔭 I’m currently working on **Financial Credit Inclusion** at **Kubar Labs**.
 
-- 🌱 I’m currently learning **DSA and Flutter**.
+- 🌱 I’m currently learning **Alternate Scoring Models and Debt Portfolio Risk Asessment**.
 
 - 👯 I’m looking to collaborate on **Python**.
 
@@ -14,8 +14,6 @@
 - 👨‍💻 My portfolio website : [vaibhav7.xyz](https://vaibhav7.xyz).
 
 - 📝 I regularly write articles on [https://forum.techhut.tv/u/vaibhav](https://forum.techhut.tv/u/vaibhav).
-
-- 💬 Ask me about **Python, Java, C and DSA**.
 
 - 📫 How to reach me **vaibhavsharma74@protonmail.com**.
 
