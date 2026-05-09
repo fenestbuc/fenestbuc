@@ -45,9 +45,3 @@
 ## Background
 
 CS + X at [Ashoka University](https://ashoka.edu.in). [Polkadot Blockchain Academy](https://polkadot.network/development/academy/) Hong Kong 2024.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fenestbuc&theme=github_dark&show_icons=true&hide_border=true" width="400" />
-</p>
