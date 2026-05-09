@@ -10,7 +10,6 @@
 ## What I'm Building
 
 - **NavDhan** at [Kubar Labs](https://kubar.tech) — B2B credit rails. Phase 1/2 GTM via DSA positioning. Fee: 1.25% on disbursals.
-- Partnerships: AgriGrader (supplier consent flow), Clix pilot, SBI/PNB/Maruti connections.
 
 ## Traction
 
